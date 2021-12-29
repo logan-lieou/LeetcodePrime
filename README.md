@@ -10,7 +10,7 @@ In this project I try and cover the major concepts in leetcode, because I'm stri
 5. [two pointer]()
 
 ## Binary
-1. [operations]()
+1. [operations](docs/operations.md)
 2. [add two numbers]()
 3. [hamming distance]()
 4. [reverse bits]()
