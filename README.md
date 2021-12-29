@@ -5,8 +5,8 @@ In this project I try and cover the major concepts in leetcode, because I'm stri
 ## Array
 1. [brute force](docs/bruteforce.md)
 2. [array complements](docs/complements.md)
-3. [sliding window]()
-4. [algorithm]()
+3. [sliding window](docs/slidingwindow.md)
+4. [kadane's algorithm](docs/kadanealgorithm.md)
 5. [two pointer]()
 
 ## Binary
