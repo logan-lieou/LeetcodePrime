@@ -19,6 +19,14 @@ In this project I try and cover the major concepts in leetcode, because I'm stri
 1. [Depth First Search]()
 2. [Breadth First Search]()
 
+## String
+1. [integer array of length 256 bc ascii]()
+2. [two pointer]()
+3. [string math]()
+4. [string casting]()
+5. [regex/filter](docs/regfilter.md)
+6. [string algorithms]()
+
 ## Linked List
 1. [Reverse Linked List]()
 
