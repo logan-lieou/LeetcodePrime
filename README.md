@@ -11,7 +11,7 @@ In this project I try and cover the major concepts in leetcode, because I'm stri
 
 ## Binary
 1. [operations](docs/operations.md)
-2. [add two numbers]()
+2. [add two numbers](docs/addtwo.md)
 3. [hamming distance]()
 4. [reverse bits]()
 
@@ -30,9 +30,15 @@ In this project I try and cover the major concepts in leetcode, because I'm stri
 ## Linked List
 1. [Reverse Linked List]()
 
+## Interval
+1. [Merge Interval](docs/mergeinterval.md)
+
 ## Tree
+1. [Tree Traversals]()
 
 ## Heap
+1. [Merge K Sorted]()
 
 ## Dynamic Programming
 1. [counting coins problem]()
+
