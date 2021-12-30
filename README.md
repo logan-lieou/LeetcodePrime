@@ -28,7 +28,9 @@ In this project I try and cover the major concepts in leetcode, because I'm stri
 6. [string algorithms]()
 
 ## Linked List
-1. [Reverse Linked List]()
+1. [Linked List Operations](docs/llops.md)
+2. [Reverse Linked List](docs/revll.md)
+3. [Mege Linked List]()
 
 ## Interval
 1. [Merge Interval](docs/mergeinterval.md)
